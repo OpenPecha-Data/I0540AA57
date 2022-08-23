@@ -1,9 +1,9 @@
-id: b07174728a374b88b89e5d2e925f4ede
+id: 41b95d6eeb1e447a8677a6b701b62f89
 annotation_type: index
 revision: '00001'
 annotations:
-  a1f8ae9d2c5d49dbaf0225c8870f0bf7:
-    base: E38A.txt
+  1e403e1dd182411da64836c91aba99dd:
+    base: A455.txt
     Chapters:
     - title: Title
       span:
@@ -11,49 +11,49 @@ annotations:
         end: 17
     - title: Preface
       span:
-        start: 18
-        end: 36
+        start: 17
+        end: 35
     - title: 'Chapter 1: Bodhicittānuśaṃsaḥ'
       span:
-        start: 37
-        end: 4079
+        start: 35
+        end: 4077
     - title: 'Chapter 2: Pāpadeśanā'
       span:
-        start: 4080
-        end: 10758
+        start: 4077
+        end: 10755
     - title: 'Chapter 3: Bodhicittaparigraho'
       span:
-        start: 10759
-        end: 13987
+        start: 10755
+        end: 13983
     - title: 'Chapter 4: Bodhicittāpramādo'
       span:
-        start: 13988
-        end: 18972
+        start: 13983
+        end: 18967
     - title: 'Chapter 5: Saṃprajanyarakṣaṇaḥ'
       span:
-        start: 18973
-        end: 29285
+        start: 18967
+        end: 29279
     - title: 'Chapter 6: Kṣāntipāramitā'
       span:
-        start: 29286
-        end: 42309
+        start: 29279
+        end: 42302
     - title: 'Chapter 7: Vīryapāramitā'
       span:
-        start: 42310
-        end: 49613
+        start: 42302
+        end: 49605
     - title: 'Chapter 8: Dhyānapāramitā'
       span:
-        start: 49614
-        end: 67287
+        start: 49605
+        end: 67278
     - title: 'Chapter 9: Prajñāpāramitā'
       span:
-        start: 67288
-        end: 83148
+        start: 67278
+        end: 83138
     - title: 'Chapter 10: Pariṇāmanā'
       span:
-        start: 83149
-        end: 89340
+        start: 83138
+        end: 89329
     - title: Colophon
       span:
-        start: 89341
-        end: 89422
+        start: 89329
+        end: 89410
